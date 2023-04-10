@@ -14,7 +14,7 @@
 </div>  
 </br>
 
-# RocketNotes - Front-end
+# RocketNotes App
 
 This project was developed on Stage 9 in the Explorer course at the [Rocketseat School](https://www.rocketseat.com.br/). To access the entire course assignments click [this link](https://github.com/jeadamek/explorer-rocketseat). 
 
@@ -43,7 +43,7 @@ I could practice and study:
 
 The project's preview can be seen below:<br/>
 
-![preview]()
+![preview](https://user-images.githubusercontent.com/78454317/230917844-811d2517-a8f0-433d-adb5-6f40fc1344d9.gif)
 
 
 ## 🛠️ Technologies
@@ -59,7 +59,7 @@ The project's preview can be seen below:<br/>
 </div>
 </br>
 
----
+
 ## ✨ Features
 
 The application allow users to create their own login credentials and securely save essential notes and links. Additionally, they can conveniently update their profile information and retrieve or delete their stored notes as needed.
@@ -78,7 +78,11 @@ To install and run the application on your local machine, please follow these st
 To use this application, follow these steps:
 
 1. Open the application in your web browser.
-2. Create an account and log in.
+2. Log In in the system using
+  ```
+    email: jessica@email.com
+    password: 123
+  ```
 3. Use the note system to create a note, adding links and tags to it.
 4. Your note will be saved and displayed on the note details page.
 5. Use the search bar or tags to find a note you want to open.
