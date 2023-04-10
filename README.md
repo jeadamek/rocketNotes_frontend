@@ -69,7 +69,7 @@ The application allow users to create their own login credentials and securely s
 To install and run the application on your local machine, please follow these steps:
 
 1. Clone the repository: git clone `git@github.com:jeadamek/rocketNotes_frontend.git`
-2. Navigate to the project directory: `cd rocketNotes-frontend`
+2. Navigate to the project directory: `cd rocketNotes_frontend`
 3. Install the dependencies: `npm install`
 4. Start the application: `npm start`
 <br />
